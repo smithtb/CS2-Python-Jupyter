@@ -1,4 +1,4 @@
-CS2-Python-Jupyter
+# CS2-Python-Jupyter
 
 Python notebooks - meant for and created using Jupyter
 Assignments for CS2 students - data structures - to complete.
